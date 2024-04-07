@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinema-app-react/static/css/main.def3a8ac.css",
+    "main.js": "/cinema-app-react/static/js/main.d2e49447.js",
+    "index.html": "/cinema-app-react/index.html",
+    "main.def3a8ac.css.map": "/cinema-app-react/static/css/main.def3a8ac.css.map",
+    "main.d2e49447.js.map": "/cinema-app-react/static/js/main.d2e49447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def3a8ac.css",
+    "static/js/main.d2e49447.js"
+  ]
+}
